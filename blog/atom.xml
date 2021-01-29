@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pingsutw.github.io/blog</id>
-    <title>Apache Subamrine Site Blog</title>
+    <title>Apache Subamrine Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pingsutw.github.io/blog"/>
-    <subtitle>Apache Subamrine Site Blog</subtitle>
+    <subtitle>Apache Subamrine Blog</subtitle>
     <icon>https://pingsutw.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
